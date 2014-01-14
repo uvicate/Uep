@@ -1,0 +1,11 @@
+<content>
+	<dom>
+		<usermanager-title>Uvicate Enterprise Planning (Uep)</usermanager-title>
+		<about-usermanager>Administra tu empresa</about-usermanager>
+
+		<button>Inica sesión</button>
+
+		<error-login>Acceso no autorizado</error-login>
+		<error-description>Verifica que tu usuario y/o contraseña sean correctos</error-description>
+	</dom>
+</content>

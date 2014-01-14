@@ -1,0 +1,10 @@
+{
+	"modules": {
+		"login": {},
+		"backend": {},
+		"dashboard": {"i": "glyphicon glyphicon-home"}
+	},
+	"modules_path": "modules/",
+	"rest": "http://victor/Desarrollos/ERP/ERP/api/v1/",
+	"id": "U"
+}

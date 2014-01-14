@@ -1,0 +1,13 @@
+{
+	"name": "uVicate Enterprise Planning",
+	"dependencies": {
+		"jQuery": "2.0.3",
+		"bootstrap": "v3.0.3",
+		"webapp": "",
+		"ladda": "",
+		"chartjs": "",
+		"brick": "1.0.0-beta7",
+		"classie": "",
+		"modals": ""
+	}
+}
